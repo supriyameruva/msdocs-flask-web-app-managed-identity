@@ -6,4 +6,5 @@ psycopg2
 python-dotenv
 SQLAlchemy
 azure-storage-blob
+flask-login
 azure-identity
